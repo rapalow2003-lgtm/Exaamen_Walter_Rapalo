@@ -27,16 +27,16 @@ El modelo fue entrenado con el conjunto de datos **CIFAR-10**, el cual contiene 
 
 | Categoría | Nombre en la App |
 | :--- | :--- |
-| **Airplane** | Avión ✈️ |
-| **Automobile** | Auto 🚗 |
-| **Bird** | Pájaro 🐦 |
-| **Cat** | Gato 🐱 |
-| **Deer** | Ciervo 🦌 |
-| **Dog** | Perro 🐶 |
-| **Frog** | Rana 🐸 |
-| **Horse** | Caballo 🐴 |
-| **Ship** | Barco 🚢 |
-| **Truck** | Camión 🚚 |
+| **Airplane** | Avión |
+| **Automobile** | Auto |
+| **Bird** | Pájaro |
+| **Cat** | Gato |
+| **Deer** | Ciervo |
+| **Dog** | Perro |
+| **Frog** | Rana |
+| **Horse** | Caballo |
+| **Ship** | Barco |
+| **Truck** | Camión |
 
 ## ¿Cómo Usar la Aplicación?
 1. **Seleccionar método de entrada:**
