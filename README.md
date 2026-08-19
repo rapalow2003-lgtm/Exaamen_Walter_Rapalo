@@ -42,5 +42,5 @@ El modelo fue entrenado con el conjunto de datos **CIFAR-10**, el cual contiene 
 1. **Seleccionar método de entrada:**
    * **Subir una imagen:** Permite cargar archivos `.png`, `.jpg` o `.jpeg` desde el ordenador o teléfono móvil.
    * **Tomar foto con la cámara:** Captura una fotografía en vivo utilizando la cámara web.
-2. **Procesar la imagen:** Haz clic en el botón **🚀 Analizar Imagen**.
+2. **Procesar la imagen:** Haz clic en el botón ** Analizar Imagen**.
 3. **Ver Resultados:** La aplicación redimensiona la imagen al formato $32 \times 32$, realiza la inferencia con el modelo cargado y muestra la **Categoría Identificada** junto con el **Porcentaje de Confianza (%)**.
