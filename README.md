@@ -7,7 +7,7 @@
 
 ## Enlaces del Proyecto
 **Aplicación Desplegada:** [https://exaamenwalterrapalo-7vqm4batcjpfhg7khur4ep.streamlit.app/]
-**Repositorio de Código:** [Poner aquí la URL de este repositorio en GitHub]
+**Repositorio de Código:** [https://github.com/rapalow2003-lgtm/Exaamen_Walter_Rapalo.git]
 
 ## Objetivos
 1. Entrenar un modelo de clasificación de imágenes en **Google Colab** utilizando TensorFlow y Keras.
