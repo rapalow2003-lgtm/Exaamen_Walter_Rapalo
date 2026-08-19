@@ -38,7 +38,7 @@ else:
         image = Image.open(camera_file)
 
 if image is not None:
-    st.image(image, caption="Imagen ingresada", use_column_width=True)
+    st.image(image, caption="Imagen ingresada", use_container_width=True)
     
     if st.button("🚀 Analizar Imagen"):
         with st.spinner("Procesando imagen con la Red Neuronal..."):
